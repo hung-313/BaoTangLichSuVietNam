@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26ad98dd63beeba408c8a51f63db17d4, type: 3}
+  m_Name: E07_BiaTienSi
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitData
+  title: "Bia Ti\u1EBFn s\u0129 V\u0103n Mi\u1EBFu \u2013 Qu\u1ED1c T\u1EED Gi\xE1m"
+  era: "D\u1EF1ng t\u1EEB n\u0103m 1484 \u0111\u1EBFn n\u0103m 1780"
+  description: "H\u1EC7 th\u1ED1ng bia \u0111\xE1 \u0111\u1EB7t tr\xEAn l\u01B0ng r\xF9a ghi t\xEAn, qu\xEA qu\xE1n nh\u1EEFng ng\u01B0\u1EDDi \u0111\u1ED7 ti\u1EBFn s\u0129 qua c\xE1c khoa thi th\u1EDDi L\xEA. \u0110\xE2y l\xE0 t\u01B0 li\u1EC7u qu\xFD v\u1EC1 gi\xE1o d\u1EE5c, khoa c\u1EED v\xE0 truy\u1EC1n th\u1ED1ng hi\u1EBFu h\u1ECDc c\u1EE7a d\xE2n t\u1ED9c."
+  image: {fileID: 0}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26ad98dd63beeba408c8a51f63db17d4, type: 3}
+  m_Name: E03_MuiTenDongCoLoa
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitData
+  title: "M\u0169i t\xEAn \u0111\u1ED3ng C\u1ED5 Loa"
+  era: "Kho\u1EA3ng th\u1EBF k\u1EF7 III tr\u01B0\u1EDBc C\xF4ng nguy\xEAn"
+  description: "H\xE0ng ngh\xECn m\u0169i t\xEAn \u0111\u1ED3ng \u0111\xE3 \u0111\u01B0\u1EE3c t\xECm th\u1EA5y \u1EDF khu v\u1EF1c th\xE0nh C\u1ED5 Loa, kinh \u0111\xF4 c\u1EE7a nh\xE0 n\u01B0\u1EDBc \xC2u L\u1EA1c d\u01B0\u1EDBi th\u1EDDi An D\u01B0\u01A1ng V\u01B0\u01A1ng. Ch\xFAng l\xE0 b\u1EB1ng ch\u1EE9ng v\u1EC1 k\u1EF9 thu\u1EADt luy\u1EC7n kim v\xE0 t\u1ED5 ch\u1EE9c qu\xE2n s\u1EF1 c\u1EE7a c\u01B0 d\xE2n th\u1EDDi \u0111\xF3."
+  image: {fileID: 0}

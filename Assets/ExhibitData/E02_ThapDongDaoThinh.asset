@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26ad98dd63beeba408c8a51f63db17d4, type: 3}
+  m_Name: E02_ThapDongDaoThinh
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitData
+  title: "Th\u1EA1p \u0111\u1ED3ng \u0110\xE0o Th\u1ECBnh"
+  era: "V\u0103n h\xF3a \u0110\xF4ng S\u01A1n"
+  description: "Th\u1EA1p \u0111\u1ED3ng \u0110\xE0o Th\u1ECBnh \u0111\u01B0\u1EE3c t\xECm th\u1EA5y \u1EDF Y\xEAn B\xE1i, t\u1EEBng \u0111\u01B0\u1EE3c d\xF9ng l\xE0m v\u1EADt \u0111\u1EF1ng trong m\u1ED9 t\xE1ng. Th\u1EA1p c\xF3 k\xEDch th\u01B0\u1EDBc l\u1EDBn, n\u1EAFp v\xE0 th\xE2n trang tr\xED hoa v\u0103n tinh x\u1EA3o, cho th\u1EA5y tr\xECnh \u0111\u1ED9 \u0111\xFAc \u0111\u1ED3ng cao c\u1EE7a ng\u01B0\u1EDDi \u0110\xF4ng S\u01A1n."
+  image: {fileID: 0}
